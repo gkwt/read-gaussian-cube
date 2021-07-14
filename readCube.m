@@ -1,5 +1,5 @@
 function [xaxis,yaxis,zaxis,cubedat,config,resolution ] = readCube( filename, print)
-% Program written by Gary Tom (LAIR and McGill University), July 15, 2016
+% Author: Gary (July 15, 2016)
 %   Reads Gaussian cube file into a 3D matrix
 %   Convert the units from Bohr Radius to Angstroms
 

@@ -1,5 +1,5 @@
 function plotSlice2d( xaxis,yaxis, slice2d, surface,overlay,config )
-% Program written by Gary Tom (LAIR and McGill University), July 15, 2016
+% Author: Gary (July 15, 2016)
 %   Given the X and Y axis and the slice of data of the Gaussian cube, map
 %   the values on a surface plot
 %

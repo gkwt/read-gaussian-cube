@@ -1,5 +1,5 @@
 function [ slice2d ] = sliceCubeZ( cube3d,zaxis,z,config)
-% Program written by Gary Tom (LAIR and McGill University), July 15, 2016
+% Author: Gary (July 15, 2016)
 %   Slice the 3D matrix of Gaussian cube file at the z value indicated, 
 %   return a 2dslice and the closest value of the z-axis to z
 

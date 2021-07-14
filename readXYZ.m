@@ -1,5 +1,5 @@
 function xyz = readXYZ( filename, nmolec)
-%Program written by Gary Tom (LAIR and McGill University), July 13, 2016
+%Author: Gary (July 13, 2016)
 %   Enter filename of xyz file (leave out ".xyz")
 %   Return the matrix of XYZ, or -1 if error
 
